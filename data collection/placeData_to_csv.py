@@ -159,6 +159,6 @@ def update_nearby_places_counts(input_csv, output_csv):
 
 
 #print(updated_csv)
-#input_csv = "C:/Users/Owner/Desktop/code/cafe-compass/data collection/completeCafeCompassData.csv"  # Use the file with centroids
-#output_csv = "C:/Users/Owner/Desktop/code/cafe-compass/data collection/completeCafeCompassData.csv"
-#update_nearby_places_counts(input_csv, output_csv)
+input_csv = "C:/Users/Owner/Desktop/code/cafe-compass/data collection/completeCafeCompassData.csv"  # Use the file with centroids
+output_csv = "C:/Users/Owner/Desktop/code/cafe-compass/data collection/completeCafeCompassData.csv"
+update_nearby_places_counts(input_csv, output_csv)
