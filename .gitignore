@@ -2,3 +2,4 @@
 venv/
 dataFiles/
 .env
+cache/
